@@ -1,0 +1,15 @@
+D:\Users\GEORGE\Proyectos\Proyecto-Final-U1\bin\Debug\net10.0\Proyecto-Final-U1.exe
+D:\Users\GEORGE\Proyectos\Proyecto-Final-U1\bin\Debug\net10.0\Proyecto-Final-U1.deps.json
+D:\Users\GEORGE\Proyectos\Proyecto-Final-U1\bin\Debug\net10.0\Proyecto-Final-U1.runtimeconfig.json
+D:\Users\GEORGE\Proyectos\Proyecto-Final-U1\bin\Debug\net10.0\Proyecto-Final-U1.dll
+D:\Users\GEORGE\Proyectos\Proyecto-Final-U1\bin\Debug\net10.0\Proyecto-Final-U1.pdb
+D:\Users\GEORGE\Proyectos\Proyecto-Final-U1\obj\Debug\net10.0\Proyecto-Final-U1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\GEORGE\Proyectos\Proyecto-Final-U1\obj\Debug\net10.0\Proyecto-Final-U1.AssemblyInfoInputs.cache
+D:\Users\GEORGE\Proyectos\Proyecto-Final-U1\obj\Debug\net10.0\Proyecto-Final-U1.AssemblyInfo.cs
+D:\Users\GEORGE\Proyectos\Proyecto-Final-U1\obj\Debug\net10.0\Proyecto-Final-U1.csproj.CoreCompileInputs.cache
+D:\Users\GEORGE\Proyectos\Proyecto-Final-U1\obj\Debug\net10.0\Proyecto-Final-U1.sourcelink.json
+D:\Users\GEORGE\Proyectos\Proyecto-Final-U1\obj\Debug\net10.0\Proyecto-Final-U1.dll
+D:\Users\GEORGE\Proyectos\Proyecto-Final-U1\obj\Debug\net10.0\refint\Proyecto-Final-U1.dll
+D:\Users\GEORGE\Proyectos\Proyecto-Final-U1\obj\Debug\net10.0\Proyecto-Final-U1.pdb
+D:\Users\GEORGE\Proyectos\Proyecto-Final-U1\obj\Debug\net10.0\Proyecto-Final-U1.genruntimeconfig.cache
+D:\Users\GEORGE\Proyectos\Proyecto-Final-U1\obj\Debug\net10.0\ref\Proyecto-Final-U1.dll
